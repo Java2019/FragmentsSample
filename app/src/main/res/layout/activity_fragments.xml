@@ -12,11 +12,11 @@
             android:id="@+id/fragment1"
             android:layout_weight="1"
             android:layout_width="fill_parent"
-            android:layout_height="wrap_content"/>
+            android:layout_height="match_parent"/>
     <fragment
             android:name="com.samples.ui.fragment.Fragment2"
             android:id="@+id/fragment2"
             android:layout_weight="1"
             android:layout_width="fill_parent"
-            android:layout_height="wrap_content"/>
+            android:layout_height="match_parent"/>
 </LinearLayout>
